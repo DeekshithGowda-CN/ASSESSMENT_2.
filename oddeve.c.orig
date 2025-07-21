@@ -1,8 +1,12 @@
 #include <stdio.h>
+<<<<<<< HEAD
 
 int main()
 
 {
+=======
+int main(){
+>>>>>>> B3
 	int number;
 	printf("Enter a number: ");
     scanf("%d", &number);
@@ -12,12 +16,14 @@ int main()
      else
         printf("%d is Odd.\n", number);
 <<<<<<< HEAD
-      if else 
-	      printf("the given number is wrong ");
+     
      return 0;
 
-=======
       
      return 5;
->>>>>>> B2
+
+=======
+
+     return 9;
+>>>>>>> B3
    }
