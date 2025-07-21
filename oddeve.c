@@ -9,6 +9,8 @@ int main(){
         printf("%d is Even.\n", number);
      else
         printf("%d is Odd.\n", number);
-
+      if else 
+	      printf("the given number is wrong ");
      return 0;
+
    }
