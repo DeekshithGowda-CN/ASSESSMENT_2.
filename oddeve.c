@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
 	int number;
 	printf("Enter a number: ");
@@ -10,5 +9,5 @@ int main(){
      else
         printf("%d is Odd.\n", number);
 
-     return 0;
+     return 9;
    }
